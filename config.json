@@ -1,0 +1,7 @@
+{
+	"platform": "windows",
+	"language": "en",
+	"folderTemplate": "{{.title}} [GOG]",
+	"goodies": true,
+	"outPath": "GOG downloads"
+}
