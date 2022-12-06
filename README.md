@@ -31,3 +31,6 @@ If more than one result is yielded, you'll be asked to choose.
 
 Download from all owned Windows games:   
 `gog_dl_x64 -p windows`
+
+# Disclaimer  
+- GOG Downloader has no partnership, sponsorship or endorsement with GOG or CD PROJEKT.
