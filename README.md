@@ -7,7 +7,7 @@ CLI GOG downloader written in Go for Windows, Linux, macOS and Android.
 [Windows, Linux, macOS and Android binaries](https://github.com/Sorrow446/GOG-Downloader/releases)
 
 ## Features
-- Iteractive CLI
+- Interactive CLI
 - Filter & template system
 - Resumable downloads of incomplete downloads
 
