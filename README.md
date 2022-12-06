@@ -6,6 +6,11 @@ CLI GOG downloader written in Go for Windows, Linux, macOS and Android.
 ![](https://i.imgur.com/75KKwSG.png)    
 [Windows, Linux, macOS and Android binaries](https://github.com/Sorrow446/GOG-Downloader/releases)
 
+## Features
+- Iteractive CLI
+- Filter & template system
+- Resumable downloads of incomplete downloads
+
 ## Setup
 Dump cookies to `cookies.json`. EditThisCookie Chrome extension's recommended. Netscape will also be supported soon. 
 
