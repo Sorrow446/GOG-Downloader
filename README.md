@@ -3,7 +3,7 @@ CLI GOG downloader written in Go for Windows, Linux, macOS and Android.
 ![](https://i.imgur.com/aelWCRa.png)
 ![](https://i.imgur.com/8zQrXYX.png)
 ![](https://i.imgur.com/cxun5l0.png)
-![](https://i.imgur.com/75KKwSG.png)
+![](https://i.imgur.com/75KKwSG.png)    
 [Windows, Linux, macOS and Android binaries](https://github.com/Sorrow446/GOG-Downloader/releases)
 
 ## Setup
